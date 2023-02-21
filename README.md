@@ -12,6 +12,17 @@ Here, we will use two regression methods - Linear Regression and XGBoost as an e
 | `S&P 500 - EDA and Price Prediction.ipynb` | Python Notebook.    |                                          
 | `S&P500_FundamentalData.csv`               | S&P 500 stock data. |                     
 
+## Requirement
+`pandas` </br>
+`matplotlib` </br>
+`seaborn` </br>
+`numpy` </br>
+`statsmodels.api` </br>
+`scipy.stats` </br>
+`sklearn` </br>
+`xgboost` </br>
+`tabulate` </br>
+
 ## Data
 
 For this project I extracted some fundamental data for all the companies that comprise the S&P 500 from Barchart (https://www.barchart.com/).

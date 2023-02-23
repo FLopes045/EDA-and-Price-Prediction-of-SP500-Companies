@@ -1,4 +1,4 @@
-# EDA-and-Price-Prediction-of-SP500-Stocks
+# EDA-and-Price-Prediction-of-SP500-Companies
 This project falls within the domain of financial economics and makes use of stock price and fundamentals.
 We will explore fundamental data of all S&P 500 companies through a set of visualizations carried out using Seaborn and Matplotlib. 
 Additionally, we are going to predict the prices of each stock using the economic and financial factors discussed as independent variables (also known as features).
